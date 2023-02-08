@@ -1,4 +1,4 @@
-/* MagicMirror²
+/* SmartMirror
  * Node Helper: Newsfeed
  *
  * By Michael Teeuw https://michaelteeuw.nl
